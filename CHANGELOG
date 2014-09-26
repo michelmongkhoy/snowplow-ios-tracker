@@ -1,6 +1,6 @@
-Version 0.1.2 (2014-09-xx)
+Version 0.1.2 (2014-09-28)
 --------------------------
-Fixed UUIDs that are incorrectly generated using upper case (#71)
+Fixed bug where UUIDs generated in uppercase, not lowercase (#71)
 
 Version 0.1.1 (2014-09-10)
 --------------------------
